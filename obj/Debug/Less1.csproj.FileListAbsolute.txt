@@ -1,0 +1,9 @@
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\bin\Debug\Less1.exe.config
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\bin\Debug\Less1.exe
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\bin\Debug\Less1.pdb
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\obj\Debug\Less1.csprojAssemblyReference.cache
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\obj\Debug\Less1.Properties.Resources.resources
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\obj\Debug\Less1.csproj.GenerateResource.cache
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\obj\Debug\Less1.csproj.CoreCompileInputs.cache
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\obj\Debug\Less1.exe
+C:\Users\RedkoMV\Documents\SH learning\Less\Less01\Less1\obj\Debug\Less1.pdb
